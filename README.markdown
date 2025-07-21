@@ -50,6 +50,4 @@ This repository implements a Network Intrusion Detection System (NIDS) using the
 - [Explainable AI for Intrusion Detection](https://www.elsevier.com/locate/eswa)
 - [UNSW-NB15 Dataset](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/)
 
-## License
-CIT License
-```
+## CIT LICENSE
