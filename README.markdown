@@ -51,5 +51,5 @@ This repository implements a Network Intrusion Detection System (NIDS) using the
 - [UNSW-NB15 Dataset](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/)
 
 ## License
-MIT License
+CIT License
 ```
